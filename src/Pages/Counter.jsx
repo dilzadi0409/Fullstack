@@ -48,6 +48,7 @@ const Counter = () => {
                     >
                         Reset Counter
                     </Button>
+                    
                 </CardContent>
             </Card>
         </div>
